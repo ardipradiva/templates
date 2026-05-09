@@ -109,7 +109,7 @@ export default function SignatureMenu() {
 
   return (
     <section id="menu" className="section-padding bg-surface/50">
-      <div className="max-w-7xl mx-auto">
+      <div className="w-full mx-auto">
         {/* Header */}
         <SectionReveal className="flex flex-col items-center text-center mb-8">
           <div className="gold-line-center mb-6" />

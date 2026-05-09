@@ -23,7 +23,7 @@ export default function Gallery() {
 
   return (
     <section id="gallery" className="section-padding bg-surface/30">
-      <div className="max-w-7xl mx-auto">
+      <div className="w-full mx-auto">
         {/* Header */}
         <SectionReveal className="text-center mb-16">
           <div className="gold-line-center mb-6" />

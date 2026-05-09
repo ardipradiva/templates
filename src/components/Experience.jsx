@@ -45,7 +45,7 @@ const experiences = [
 export default function Experience() {
   return (
     <section id="experience" className="section-padding overflow-hidden">
-      <div className="max-w-7xl mx-auto">
+      <div className="w-full mx-auto">
         {/* Header */}
         <SectionReveal className="flex flex-col items-center text-center mb-8">
           <div className="gold-line-center mb-6" />

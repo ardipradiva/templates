@@ -115,7 +115,7 @@ function NavbarInner({ bgOpacity, backdropBlur, isOpen, setIsOpen, scrollToSecti
       }}
     >
       <div className="w-full">
-        <div className="max-w-7xl mx-auto h-20 md:h-24 px-8 lg:px-12">
+        <div className="w-full h-20 md:h-24 px-8 lg:px-12">
           <div className="grid grid-cols-2 lg:grid-cols-3 items-center h-full">
             
             {/* 1. LOGO */}

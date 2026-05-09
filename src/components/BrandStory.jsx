@@ -41,7 +41,7 @@ const stats = [
 export default function BrandStory() {
   return (
     <section id="story" className="section-padding overflow-hidden">
-      <div className="max-w-7xl mx-auto">
+      <div className="w-full mx-auto">
         <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
           {/* Image side */}
           <SectionReveal>

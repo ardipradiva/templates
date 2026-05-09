@@ -28,7 +28,7 @@ export default function Footer() {
     <footer className="bg-surface/60 border-t border-white/5">
       <div className="flex w-full">
         <div className="w-6 lg:w-12 shrink-0"></div> {/* Tembok Kiri */}
-        <div className="flex-1 max-w-7xl mx-auto py-20">
+        <div className="flex-1 w-full mx-auto py-20">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
           <SectionReveal>
             <a href="#" onClick={(e) => { e.preventDefault(); scrollTo('#hero'); }}
